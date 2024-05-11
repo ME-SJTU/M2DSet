@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "./imgs/logo.png" width="30%">
+  <img src = "./imgs/logo.png" width="50%">
 </p>
 
 # M<sup>2</sup>DSet: A Novel Multi-view and Multimodal dataset for Long-range and Robust Perception
