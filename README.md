@@ -7,7 +7,7 @@ We develop and release an innovative multi-view and multimodal dataset, dubbed M
 </p>
 
 <p align="center">
-  <img src = "./imgs/图片1.png" width="60%">
+  <img src = "./imgs/scene.png" width="100%">
 </p>
 
 # News
