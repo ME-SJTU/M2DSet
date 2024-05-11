@@ -29,7 +29,8 @@ To enhance the long-range and multi-view capabilities essential for autonomous d
 <p align="center"><font face="Helvetica" size=3.><b>Fig. 2 | Sensor Configuration and Specifications of the M<sup>2</sup>DSet Data Collection Platform.</b></font></p>
 
 # 3. Quanttitative Analysis
-TO DO
+## TO DO
+</p>
 The quantitative analysis of our dataset will be published as soon as our paper is accepted.
 
 # 4. Download Link
@@ -161,7 +162,7 @@ We test the L-RadSet detection frameworks on the following environment:
       ├── checkpoints
       ├── configs
       ├── data
-      │  │  M<sup>2</sup>DSet
+      |  ├─ M<sup>2</sup>DSet
       ├── mmdet3d
       ├── projects
       ├── tools
