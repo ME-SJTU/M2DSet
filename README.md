@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "./imgs/logo.png" width="60%">
+  <img src = "./imgs/logo.png" width="30%">
 </p>
 
 # M<sup>2</sup>DSet: A Novel Multi-view and Multimodal dataset for Long-range and Robust Perception
@@ -24,7 +24,7 @@ To enhance the long-range and multi-view capabilities essential for autonomous d
 </p>
 
 <div align=center>
-<img src="./imgs/platform.png"  width="60%"/>
+<img src="./imgs/platform.png"  width="100%"/>
 </div>
 <p align="center"><font face="Helvetica" size=3.><b>Fig. 2 | Sensor Configuration and Specifications of the M<sup>2</sup>DSet Data Collection Platform.</b></font></p>
 
