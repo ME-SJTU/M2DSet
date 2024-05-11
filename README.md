@@ -12,7 +12,7 @@ We develop and release an innovative multi-view and multimodal dataset, dubbed M
 
 # News
 
-[2024.05.10] Our Code currently supports some baselines including DETR3D, Pointpillars, Second, and PV-RCNN. 
+[2024.05.10] Our Code currently supports some baselines including PETR, Pointpillars, and Second. 
 
 # 1. Introduction
 <p style=""text-align:justify; text-justify:interideograph;">
