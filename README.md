@@ -21,3 +21,9 @@ We develop and release an innovative multi-view and multimodal dataset, dubbed M
 
 # Overall architecture of the data collection platform
 To enhance the long-range and multi-view capabilities essential for autonomous driving perception, we have developed an advanced multimodal perception system, as presented in Fig. 2a. This system comprises eight high-resolution cameras, a front-mounted 4D radar, and a top-mounted 80-line LiDAR. In autonomous driving scenarios, perception requirements vary with the ego-vehicle orientation. The frontal direction, being critical for navigation and safety, is often prioritized to achieve enhanced perception capabilities 30, 39. Accordingly, our platform incorporates three front-view cameras with varying focal lengths and field-of-view (FOV) characteristics. The remaining five cameras are strategically distributed around the vehicle to work in conjunction with the front-view cameras, providing comprehensive panoramic coverage. This configuration enables our vision system to achieve a detailed understanding of the surrounding environment while maintaining long-range detection capabilities. Additionally, a high-resolution and long-range LiDAR is mounted on the vehicle’s roof, which can significantly enhance the 3D perception capability by providing accurate location and geometric information of surrounding objects. Robustness in autonomous driving systems is essential, particularly under adverse driving conditions. While LiDAR is effective across various lighting conditions, it has limitations in adverse weather due to point cloud degradation. To address these challenges, a 4D radar is integrated into the system, bolstering the overall robustness of the perception mechanisms. 
+</p>
+
+<div align=center>
+<img src="./imgs/platform.png"  width="60%"/>
+</div>
+<p align="center"><font face="Helvetica" size=3.><b>Fig. 2 | Sensor Configuration and Specifications of the M2DSet Data Collection Platform.</b></font></p>
